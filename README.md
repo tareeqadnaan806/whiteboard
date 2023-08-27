@@ -1,6 +1,6 @@
 # whiteboard
 
-hosted link: 
+hosted link: https://tareeqadnaan806.github.io/whiteboard/
 
 This is a basic whiteboard application implemented using HTML, CSS, and JavaScript. It allows users to draw on a canvas and provides functionalities to reset the canvas and undo the last stroke.
 
